@@ -1,5 +1,8 @@
-Hello, Welcome The Thurston Banking Application Repositiory
+Hello, Welcome The Thurston Banking App Repositiory
 --------------------------------------------------------------------------------------
+
+A banking app which runs in the terminal and is comprise of both a front end which handles user experience, and a backend which handles an account database.
+
 This code was written in python, and it has been refactored in order to adhere to good
 design principles. 
 
